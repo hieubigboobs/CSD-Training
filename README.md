@@ -20,5 +20,8 @@ Cultivate knowledge about CSD for 9.5AI Club members, besides building a legacy 
 - **Week3: Recursion**
 - **Week4: Recursion**  
 - **Week5: Tree - Get Started**
+- **Week6: Tree**
+- **Week7: Graph - Get Started**
+- **Week8: Graph**
 
   
