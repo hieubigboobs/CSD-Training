@@ -24,4 +24,14 @@ Cultivate knowledge about CSD for 9.5AI Club members, besides building a legacy 
 - **Week7: Graph - Get Started**
 - **Week8: Graph**
 
-  
+## Contributing
+
+Members of 9.5AI Club - FPTU HCM.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or suggestions, feel free to reach out to me at dinhviethieu2910@gmail.com.
