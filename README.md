@@ -13,8 +13,8 @@ Cultivate knowledge about CSD for 9.5AI Club members, besides building a legacy 
   - [Code tham khảo (Python)](https://drive.google.com/drive/folders/1TWKigWWNOvm8UuphtfvB9F10QMRD16F5?usp=drive_link)
 - **Week2: Stack&Queue**
   - [Slide bài giảng](https://drive.google.com/file/d/1AeaFSNawbCBw_iP1mWTe963BhjbG88Z-/view?usp=drive_link) 
-  - [Tài liệu tham khảo(Stack)](https://www.geeksforgeeks.org/stack-data-structure/?ref=lbp)
-  - [Tài liệu tham khảo(Queue)](https://www.geeksforgeeks.org/queue-data-structure/?ref=shm)
+  - [Tài liệu tham khảo(GeeksForGeeks Stack)](https://www.geeksforgeeks.org/stack-data-structure/?ref=lbp)
+  - [Tài liệu tham khảo(GeeksForGeeks Queue)](https://www.geeksforgeeks.org/queue-data-structure/?ref=shm)
   - [Bài tập vận dụng](https://drive.google.com/drive/folders/1RJEm1Ot5uMfGbETn0fWfi9b7tLcJqCZn?usp=drive_link)
   - [Code tham khảo (Python)](https://drive.google.com/drive/folders/1OBHVqaUnwtg8vsUfld1MQjoRLCGiKz8Q?usp=drive_link)
 - **Week3: Recursion**
